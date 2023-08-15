@@ -1,0 +1,68 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: linear-gradient(#5d75bb, #f92f51);
+    background-size: cover;
+    color: white;
+
+}
+
+#h {
+    margin-left: 35%;
+    font-size: 70px;
+}
+
+#c {
+    margin-left: 40%;
+    margin-top: 300px;
+    font-size: 70px;
+    color: white;
+}
+
+#hours {
+    background-color: #ef153a;
+    padding: 12px 25px;
+    border-radius: 15px;
+    color: white;
+}
+
+#m {
+    background-color: #24ef15;
+    padding: 12px 25px;
+    border-radius: 15px;
+    color: white;
+}
+
+#s {
+    background-color: #e0ef15;
+    padding: 12px 25px;
+    border-radius: 15px;
+    color: white;
+}
+
+#dayA {
+
+    border-radius: 15px;
+    color: white;
+    font-size: 40px;
+
+}
+
+#dateq {
+
+    border-radius: 15px;
+    color: white;
+    font-size: 40px;
+}
+}
+
+.container {
+    margin-top: 22%;
+}
+
+#flag {
+    color: white;
+}
